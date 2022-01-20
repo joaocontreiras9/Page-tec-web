@@ -1,0 +1,51 @@
+.body{
+    margin: 0;
+}
+
+.imagem{
+    background-image: url("img/estrada.jpeg");
+    height: 400px;
+    width: 400px;
+    bottom: 50px;
+        
+}
+
+.texto{
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+    text-align: left;
+    top: 20px;
+    left: 20px;
+    
+}
+
+.botao{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-right: 1000px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.lista{
+    background: gray;
+    width:300px;
+
+    
+}
+
+li:nth-child(odd){
+    background-color: lightgray;
+
+}
+
+
+
+
+
